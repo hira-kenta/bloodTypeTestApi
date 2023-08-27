@@ -1,5 +1,5 @@
 {
-    "bloodType" : [
+    "bloodTypes" : [
         {
             "id"  : 1,
             "name" : "A"
@@ -17,7 +17,7 @@
             "name" : "O"
         }
     ],
-    "bloodTypeTest" : [
+    "bloodTypeTests" : [
         {
             "id" : 1,
             "bloodTypeId" : 1,
@@ -26,17 +26,17 @@
         {
             "id" : 2,
             "bloodTypeId" : 2,
-            "text" : "B：比較的おおざっぱな性格かもしれません。"
+            "text" : "比較的おおざっぱな性格かもしれません。"
         },
         {
             "id" : 3,
             "bloodTypeId" : 3,
-            "text" : "AB：おおざっぱなときとそうでないときがある性格かもしれません。"
+            "text" : "おおざっぱなときとそうでないときがある性格かもしれません。"
         },
         {
             "id" : 4,
             "bloodTypeId" : 4,
-            "text" : "O：おおざっぱな性格です。"
+            "text" : "おおざっぱな性格です。"
         }
     ]
 }
