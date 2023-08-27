@@ -1,0 +1,43 @@
+{
+    "bloodType" : [
+        {
+            "id"  : 1,
+            "name" : "A"
+        },
+        {
+            "id" : 2,
+            "name" : "B"
+        },        
+        {
+            "id" : 3,
+            "name" : "AB"
+        },
+        {
+            "id" : 4,
+            "name" : "O"
+        }
+    ],
+    "bloodTypeTest" : [
+        {
+            "id" : 1,
+            "bloodTypeId" : 1,
+            "text" : "少しおおざっぱな性格です。"
+        },
+        {
+            "id" : 2,
+            "bloodTypeId" : 2,
+            "text" : "B：比較的おおざっぱな性格かもしれません。"
+        },
+        {
+            "id" : 3,
+            "bloodTypeId" : 3,
+            "text" : "AB：おおざっぱなときとそうでないときがある性格かもしれません。"
+        },
+        {
+            "id" : 4,
+            "bloodTypeId" : 4,
+            "text" : "O：おおざっぱな性格です。"
+        }
+    ]
+}
+
